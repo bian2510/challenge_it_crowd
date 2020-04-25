@@ -1,8 +1,10 @@
 If you want run this project you need run
 
-`bundle`
-`rails db:create`
-`rails db:migrate`
+```
+bundle
+rails db:create
+rails db:migrate
+```
 
 and...
 
